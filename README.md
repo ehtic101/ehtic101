@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ehtic101
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... BYJU'S
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ellen.nat2017@gmail.com
 
 <!---
